@@ -7,7 +7,7 @@ This project consists of two parts :
 2. Data Collection Tool
 
 ### Diagnosis using symptoms:
-The dataset contains 132 symptoms (x) and 41 diseases (y). The machine learning model is trained with 4920 data points using KNN Algorithm. The website collects suer data including their symptoms on the basis of which the model diagnoses the disease.
+The dataset contains 132 symptoms (x) and 41 diseases (y). The machine learning model is trained with 4920 data points using KNN Algorithm. The website collects user data including their symptoms on the basis of which the model diagnoses the disease.
 <br><br>
 ![image](https://user-images.githubusercontent.com/79241223/169665436-56562896-ebb0-427f-a003-577bfdb88ac4.png)
 
